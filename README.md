@@ -1,2 +1,2 @@
 # Soundcloud-HTML-Table
-Plug in your client_id to output your likes and repost from soundcloud
+Plug in your client_id and user id to output your likes and repost from soundcloud
